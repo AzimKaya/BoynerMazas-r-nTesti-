@@ -1,0 +1,7 @@
+pages\BasePage.class
+pages\ProductListPage.class
+runners\TestRunner.class
+utils\Hooks.class
+stepdefinitions\BaseSteps.class
+pages\ProductDetailPage.class
+utils\DriverManager.class
