@@ -45,3 +45,6 @@ mvn test -Dcucumber.options="--tags @tag_name"
 ## Raporlama
 
 Test raporları `target/cucumber-reports` dizininde oluşturulur.
+
+
+Test raporları Alure Raporu ile oluşmaktadır 
